@@ -8,8 +8,7 @@ This project is a Streamlit-based web application that calculates an individual'
 3. [Usage](#usage)
 4. [Example](#example)
 5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+6. [Acknowledgements](#acknowledgements)
 
 ## Features
 
